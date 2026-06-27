@@ -58,7 +58,9 @@
 </div>
 
 <p align="center">
-  <img src="link-zelda.gif" width="50px" alt="Link Pixel Art" />
+  <img src="https://raw.githubusercontent.com/zFreitaz/zFreitaz/main/legend-of-zelda-link2.gif" width="90px" alt="Zelda Link 2" style="margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/zFreitaz/zFreitaz/main/link-zelda.gif" width="110px" alt="Link Pixel Art" style="margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/zFreitaz/zFreitaz/main/link-zelda3.gif" width="90px" alt="Zelda Link 3" />
 </p>
 
 <div align="right">
