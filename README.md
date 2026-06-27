@@ -58,7 +58,7 @@
 </div>
 
 <p align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9dd_1f3fc_200d_2642_fe0f/512.gif" width="50px" alt="Link Pixel Art" />
+  <img src="link-zelda.gif" width="50px" alt="Link Pixel Art" />
 </p>
 
 <div align="right">
