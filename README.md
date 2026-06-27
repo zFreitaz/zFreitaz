@@ -14,9 +14,12 @@
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,express,mysql,mongodb&theme=dark" alt="Minhas Tecnologias" />
-</p>
+<div style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/zFreitaz/zFreitaz/main/link-zelda3.gif" width="110px" alt="Zelda Link 3" align="right" style="margin-top: -10px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,express,mysql,mongodb&theme=dark" alt="Minhas Tecnologias" align="left" />
+</div>
+
+<br clear="all">
 
 ---
 
@@ -29,7 +32,7 @@
         <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zFreitaz&show_icons=true&title_color=96cc96&icon_color=ffdd00&text_color=ffffff&bg_color=0d1117&border_color=96cc96&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
       </td>
       <td align="center" valign="top">
-        <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zFreitaz&layout=compact&custom_title=Tecnologias&langs_count=7&title_color=96cc96&icon_color=ffdd00&text_color=ffffff&bg_color=0d1117&border_color=96cc96" alt="Top Languages" />
+        <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zFreitaz&layout=compact&custom_title=Tecnologias&langs_count=7&title_count=7&title_color=96cc96&icon_color=ffdd00&text_color=ffffff&bg_color=0d1117&border_color=96cc96" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -46,23 +49,21 @@
 
 ### ❤️ Comunicação via Ocarina
 
-*Canais abertos para iniciar uma Quest ou trocar uma ideia sobre código:*
-
-<div align="left">
+<div style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/zFreitaz/zFreitaz/main/link-zelda.gif" width="120px" alt="Link Pixel Art" align="right" style="margin-top: 15px;" />
+  
+  <p><i>Canais abertos para iniciar uma Quest ou trocar uma ideia sobre código:</i></p>
+  
   <a href="mailto:vinicius.vinifreitas23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-125B34?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-125B34?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222" alt="Gmail" align="left" style="margin-right: 6px;" />
   </a>
   <a href="https://www.instagram.com/vinizfreitas" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=222" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=222" alt="Instagram" align="left" />
   </a>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zFreitaz/zFreitaz/main/legend-of-zelda-link2.gif" width="90px" alt="Zelda Link 2" style="margin-right: 15px;" />
-  <img src="https://raw.githubusercontent.com/zFreitaz/zFreitaz/main/link-zelda.gif" width="110px" alt="Link Pixel Art" style="margin-right: 15px;" />
-  <img src="https://raw.githubusercontent.com/zFreitaz/zFreitaz/main/link-zelda3.gif" width="90px" alt="Zelda Link 3" />
-</p>
+<br clear="all">
 
-<div align="right">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=125B34&height=100&section=footer" width="100%" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=125B34&height=140&section=footer" width="100%" />
 </div>
