@@ -57,6 +57,10 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vivid-colors/vivid-colors/main/link-green.gif" width="60px" alt="Link Pixel Art" />
+</p>
+
 <div align="right">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=125B34&height=100&section=footer" width="100%" />
 </div>
